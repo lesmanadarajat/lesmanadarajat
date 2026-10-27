@@ -1,5 +1,16 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm Lesmana, an aspiring **Data Scientist and AI Engineer** with a strong interest in mathematics, statistics, and data-driven problem solving.<br><br>I believe that **data science is not just about writing code, but about understanding the mathematics and logic behind the data.** I'm passionate about exploring patterns, analyzing data, and understanding how mathematical concepts can be applied to build machine learning models.<br><br>### 🧠 Areas of Interest<br>- 📊 **Data Science & Data Analysis** — data exploration, data cleaning, statistical analysis, and visualization.<br>- 📐 **Mathematics for Machine Learning** — linear algebra, calculus, probability, and statistics.<br>- 🤖 **Machine Learning & AI** — predictive modeling, model evaluation, and understanding algorithms.<br>- 🐍 **Python Programming** — using Python, NumPy, pandas, and scikit-learn to solve data problems.<br><br>### 🎯 My Goal<br><br>My goal is to develop a strong foundation in mathematics and statistics, then apply that knowledge to build reliable machine learning models and solve real-world problems.<br><br>I believe in learning from the fundamentals, practicing through projects, and continuously improving my analytical thinking.<br><br>**"Understand the mathematics. Analyze the data. Build intelligent solutions."**
+💫 About Me:
+
+Hi, I'm Lesmana, an aspiring **Data Scientist and AI Engineer** passionate about mathematics, statistics, and data-driven problem solving.
+
+I'm focused on:
+- 📊 **Data Science** — data analysis and visualization.
+- 📐 **Mathematics & Statistics** — linear algebra, calculus, and probability.
+- 🤖 **Machine Learning & AI** — predictive modeling and algorithms.
+- 🐍 **Python** — NumPy, pandas, and scikit-learn.
+
+🎯 My goal is to apply mathematics and data to build intelligent solutions and solve real-world problems.
+
+**"Understand the math. Analyze the data. Build intelligent solutions."**
 
 
 ## 🌐 Socials:
