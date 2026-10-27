@@ -72,212 +72,44 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="0">
-    <tr>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_py" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#3776AB" stop-opacity="0.3"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
-            </linearGradient>
-            <filter id="shadow_py" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_py)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_py)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_np" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#013243" stop-opacity="0.5"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
-            </linearGradient>
-            <filter id="shadow_np" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_np)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.2s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_np)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_pd" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#150458" stop-opacity="0.5"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
-            </linearGradient>
-            <filter id="shadow_pd" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_pd)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.8s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_pd)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_sk" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#F7931E" stop-opacity="0.3"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
-            </linearGradient>
-            <filter id="shadow_sk" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_sk)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.5s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_sk)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_tf" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#FF6F00" stop-opacity="0.3"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
-            </linearGradient>
-            <filter id="shadow_tf" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_tf)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.1s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_tf)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_pt" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#EE4C2C" stop-opacity="0.3"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
-            </linearGradient>
-            <filter id="shadow_pt" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_pt)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.7s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_pt)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_fl" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#ffffff" stop-opacity="0.2"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
-            </linearGradient>
-            <filter id="shadow_fl" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_fl)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.3s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_fl)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_dj" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#092E20" stop-opacity="0.5"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
-            </linearGradient>
-            <filter id="shadow_dj" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_dj)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.9s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_dj)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_mysql" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#4479A1" stop-opacity="0.3"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
-            </linearGradient>
-            <filter id="shadow_mysql" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_mysql)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.3s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_mysql)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-      <td align="center">
-        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="grad_git" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#F05033" stop-opacity="0.3"/>
-              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
-            </linearGradient>
-            <filter id="shadow_git" x="-20%" y="-20%" width="140%" height="140%">
-              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
-            </filter>
-          </defs>
-          <g filter="url(#shadow_git)">
-            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.9s" repeatCount="indefinite" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_git)" />
-            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
-            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="22" y="22" width="56" height="56" />
-          </g>
-        </svg>
-      </td>
-    </tr>
-  </table>
+
+**🧪 Data Science & AI**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**🌐 Web & Backend**
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**🗄️ Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+**🛠️ Tools & Analytics**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 </div>
 
 <br/>
