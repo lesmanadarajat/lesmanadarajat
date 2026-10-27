@@ -18,9 +18,8 @@
 
 <h2 align="center">💫 About Me</h2>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<!-- Gambar diatur align="right" agar responsif di HP -->
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" style="margin-left: 20px;" />
 
 Hi! I'm **Lesmana**, an aspiring **Data Scientist & AI Engineer** who genuinely enjoys *mathematics, statistics, and data-driven problem solving*.
 
@@ -35,12 +34,7 @@ I believe good AI starts with good math — so I spend my time turning formulas 
 💬 **Ask me about:** Python, statistics, or why linear algebra is beautiful
 ⚡ **Fun fact:** I debug better with a notebook full of scribbled math
 
-</td>
-<td width="45%" valign="top">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 <div align="center">
 
