@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER ANIMASI                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Lesmana&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20AI%20%E2%80%A2%20Mathematics&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 </div>
@@ -19,10 +15,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">💫 About Me</h2>
 
@@ -62,10 +54,6 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="90%" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          SOCIALS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
@@ -81,17 +69,11 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  TECH STACK (3D ANIMATED)                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
   <table border="0" cellspacing="10" cellpadding="0">
-    <!-- ROW 1 -->
     <tr>
-      <!-- Python -->
       <td align="center">
         <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -112,8 +94,6 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
           </g>
         </svg>
       </td>
-
-      <!-- NumPy -->
       <td align="center">
         <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -134,8 +114,6 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
           </g>
         </svg>
       </td>
-
-      <!-- Pandas -->
       <td align="center">
         <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -156,8 +134,6 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
           </g>
         </svg>
       </td>
-
-      <!-- Scikit-Learn -->
       <td align="center">
         <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -178,11 +154,6 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
           </g>
         </svg>
       </td>
-    </tr>
-
-    <!-- ROW 2 -->
-    <tr>
-      <!-- TensorFlow -->
       <td align="center">
         <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -203,8 +174,8 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
           </g>
         </svg>
       </td>
-
-      <!-- PyTorch -->
+    </tr>
+    <tr>
       <td align="center">
         <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -225,8 +196,6 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
           </g>
         </svg>
       </td>
-
-      <!-- Flask -->
       <td align="center">
         <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -247,8 +216,6 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
           </g>
         </svg>
       </td>
-
-      <!-- Django -->
       <td align="center">
         <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
@@ -269,15 +236,51 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
           </g>
         </svg>
       </td>
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_mysql" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#4479A1" stop-opacity="0.3"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+            </linearGradient>
+            <filter id="shadow_mysql" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_mysql)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.3s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_mysql)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_git" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#F05033" stop-opacity="0.3"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+            </linearGradient>
+            <filter id="shadow_git" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_git)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.9s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_git)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
     </tr>
   </table>
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -300,10 +303,6 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      SNAKE ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <h2 align="center">🐍 My Contributions Get Eaten</h2>
 
 <div align="center">
@@ -316,19 +315,11 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           QUOTES                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=2CB67D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+intelligent+together+%F0%9F%A4%96" alt="Typing Footer" />
@@ -337,13 +328,3 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" width="100%" />
 </div>
-
-<!-- Proudly crafted with ❤️ & ☕ -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               PANDUAN SETUP SNAKE (JANGAN DIHAPUS)             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 
-  Pastikan kamu sudah membuat file .github/workflows/snake.yml 
-  dan menjalankan workflow-nya agar gambar ular muncul.
--->
