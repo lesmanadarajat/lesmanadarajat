@@ -51,19 +51,6 @@ I believe good AI starts with good math — so I spend my time turning formulas 
 </table>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-7F5AF0?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mathematics-2CB67D?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C2FF?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                            QUOTE                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 > ### ✨ *"Understand the math. Analyze the data. Build intelligent solutions."*
 
@@ -95,55 +82,195 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         TECH STACK                             -->
+<!--                  TECH STACK (3D ANIMATED)                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
+  <table border="0" cellspacing="10" cellpadding="0">
+    <!-- ROW 1 -->
+    <tr>
+      <!-- Python -->
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_py" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#3776AB" stop-opacity="0.3"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+            </linearGradient>
+            <filter id="shadow_py" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_py)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_py)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
 
-**🧪 Data Science & AI**
+      <!-- NumPy -->
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_np" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#013243" stop-opacity="0.5"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
+            </linearGradient>
+            <filter id="shadow_np" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_np)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.2s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_np)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+      <!-- Pandas -->
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_pd" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#150458" stop-opacity="0.5"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
+            </linearGradient>
+            <filter id="shadow_pd" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_pd)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.8s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_pd)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
 
-**🌐 Web & Backend**
+      <!-- Scikit-Learn -->
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_sk" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#F7931E" stop-opacity="0.3"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+            </linearGradient>
+            <filter id="shadow_sk" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_sk)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.5s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_sk)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
+    </tr>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+    <!-- ROW 2 -->
+    <tr>
+      <!-- TensorFlow -->
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_tf" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#FF6F00" stop-opacity="0.3"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+            </linearGradient>
+            <filter id="shadow_tf" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_tf)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.1s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_tf)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
 
-**🗄️ Databases & Cloud**
+      <!-- PyTorch -->
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_pt" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#EE4C2C" stop-opacity="0.3"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+            </linearGradient>
+            <filter id="shadow_pt" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_pt)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.7s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_pt)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+      <!-- Flask -->
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_fl" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#ffffff" stop-opacity="0.2"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
+            </linearGradient>
+            <filter id="shadow_fl" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_fl)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.3s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_fl)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
 
-**🛠️ Tools & Analytics**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)
-
+      <!-- Django -->
+      <td align="center">
+        <svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="grad_dj" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#092E20" stop-opacity="0.5"/>
+              <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
+            </linearGradient>
+            <filter id="shadow_dj" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="3" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.7"/>
+            </filter>
+          </defs>
+          <g filter="url(#shadow_dj)">
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2.9s" repeatCount="indefinite" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="#1e1e2e" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#grad_dj)" />
+            <rect x="5" y="5" width="90" height="90" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" />
+            <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" x="22" y="22" width="56" height="56" />
+          </g>
+        </svg>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -180,51 +307,12 @@ $$ \hat{\theta} = \arg\min_{\theta} \; \mathbb{E}_{(x,y)\sim\mathcal{D}}\Big[\,\
 <h2 align="center">🐍 My Contributions Get Eaten</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lesmanadarajat/lesmanadarajat/output/github-snake-dark.svg" width="95%" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lesmanadarajat/lesmanadarajat/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lesmanadarajat/lesmanadarajat/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lesmanadarajat/lesmanadarajat/output/github-snake.svg" width="95%">
+  </picture>
 </div>
-
-<details>
-<summary><b>⚙️ Cara mengaktifkan snake animation (klik)</b></summary>
-
-<br/>
-
-1. Buat file `.github/workflows/snake.yml` di repo profil kamu (`lesmanadarajat/lesmanadarajat`).
-2. Isi dengan kode berikut:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: lesmanadarajat
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Jalankan workflow manual sekali (tab **Actions** → **Generate Snake** → **Run workflow**).
-4. Setelah branch `output` terbentuk, gambar di atas akan otomatis tampil dan update tiap 12 jam.
-
-</details>
 
 <br/>
 
@@ -251,3 +339,11 @@ jobs:
 </div>
 
 <!-- Proudly crafted with ❤️ & ☕ -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               PANDUAN SETUP SNAKE (JANGAN DIHAPUS)             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 
+  Pastikan kamu sudah membuat file .github/workflows/snake.yml 
+  dan menjalankan workflow-nya agar gambar ular muncul.
+-->
